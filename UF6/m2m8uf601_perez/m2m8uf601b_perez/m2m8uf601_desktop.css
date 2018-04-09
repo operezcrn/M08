@@ -1,0 +1,111 @@
+@media screen and (min-width: 768px){
+
+    body{
+      background-color: ;
+      margin: ;
+      padding: ;
+    }
+
+
+#capcelera {
+    background-color: #FEC500;
+    border: black 1px;
+    height: 120px;
+    text-align: center;
+}
+
+#cos {
+    background-color: #27627F;
+    padding: 5px;
+    height: 550px;
+    width: 70%;
+    float: left;
+}
+
+#cosdos {
+    background-color: #73021B;
+    padding: 5px;
+    height: 550px;
+    width: 27%;
+    float: left;
+}
+
+#index{
+    background-color: yellow;
+    margin-bottom: 55px;
+    width: 100%
+}
+
+#brazo {
+    width: 70px;
+    float: left;
+    margin-top: 15px;
+}
+
+#cotxe {
+    width: 150px;
+}
+
+#inundacion {
+    height: 65%;
+}
+
+#pilota {
+  height: 50%;
+}
+
+#brenar {
+  height: 50%;
+}
+
+.lateral {
+  margin-top: 15px;
+  float: left;
+  width: 60%;
+}
+
+.veinte {
+    background-color: #003D50;
+    border: black 1px ;
+    margin: 2px;
+    width: 18%;
+    height: 50px;
+    float: left;
+    text-align: center;
+    border: solid black 1px;
+}
+
+.coscent {
+    background-color: #27997F;
+    border: black 1px;
+    margin: 10px;
+    height: 150px;
+    width: 46%;
+    text-align: center;
+    float: left;
+}
+
+.menucent {
+    background-color: #003D50;
+    border: black 1px;
+    height: 75px;
+    width: 95%;
+    margin: 10px;
+    text-align: center;
+}
+
+.cierra {
+}
+h1 {
+  margin: 0;
+  margin-bottom: 15px;
+}
+
+h4 {
+  margin: 0;
+}
+
+h2 {
+  margin: 0;
+}
+}

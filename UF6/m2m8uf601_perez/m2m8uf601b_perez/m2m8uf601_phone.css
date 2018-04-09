@@ -1,0 +1,134 @@
+@media screen and (max-width: 480px){
+    body{
+      background-color: ;
+      margin: 0;
+      padding: 0;
+    }
+}
+.checkbox {
+  width: 100%;
+  height: 20px;
+  position: absolute;
+  top: 50px;
+  left: 5px;
+  z-index: 1;
+  cursor: pointer;
+  opacity: 0;
+}
+
+.checkbox:checked ~ #fuera{
+  display: block;
+  background-color: rgb(207, 127, 82);
+  z-index: 1;
+}
+
+.checkbox:checked ~ #icono{
+ display: none;
+ margin-bottom: 50px;
+}
+
+#icono {
+  background-color: green;
+  width: 100%;
+  height: 40px;
+
+}
+
+#fuera {
+  background-color: rgb(207, 127, 82);
+  display: none;
+  z-index: 1;
+}
+
+#capcelera {
+    background-color: #FEC500;
+    border: black 1px;
+    height: 350px;
+    text-align: center;
+
+}
+
+#cos {
+    background-color: #27627F;
+    padding: 5px;
+    height: 1000px;
+    margin-top: -260px;
+}
+
+#cosdos {
+    background-color: #73021B;
+    padding: 5px;
+    height: 580px;
+}
+
+#index{
+    background-color: yellow;
+    margin-bottom: 55px;
+    width: 100%
+}
+
+#brazo {
+    width: 70px;
+    float: left;
+    margin-top: 15px;
+}
+
+#cotxe {
+    width: 150px;
+}
+
+#inundacion {
+    height: 65%;
+}
+
+#pilota {
+  height: 50%;
+}
+
+#brenar {
+  height: 50%;
+}
+
+#timbre {
+  height: 70%;
+}
+
+.lateral {
+  margin-top: 15px;
+  float: left;
+  width: 80%;
+}
+
+
+
+.coscent {
+    background-color: #27997F;
+    border: black 1px;
+    margin: 10px;
+    width: 95%;
+    height: 150px;
+    text-align: center;
+}
+
+.menucent {
+    background-color: #003D50;
+    border: black 1px;
+    height: 75px;
+    width: 95%;
+    margin: 10px;
+    text-align: center;
+}
+
+h1 {
+  margin: 0;
+  margin-bottom: 15px;
+}
+
+h4 {
+  margin: 0;
+  text-decoration-color: white;
+}
+
+h2 {
+  margin: 0;
+}

@@ -1,0 +1,81 @@
+@media screen and (min-width: 481px){
+    body{
+      background-color: blue;
+      margin: 0;
+      padding: 0;
+    }
+
+
+#capcelera {
+    background-color: rgb(207, 244, 237);
+    border: black 1px;
+    height: 120px;
+    text-align: center;
+
+}
+
+#cos {
+    background-color: rgb(68, 96, 88);
+    padding: 5px;
+    height: 1000px;
+    width: 60%;
+    float: left;
+
+}
+
+#cosdos {
+    background-color: rgb(84, 72, 64);
+    padding: 5px;
+    margin-left: 0px;
+    width: 35%;
+    float: left;
+}
+
+#index{
+    background-color: yellow;
+    margin-bottom: 55px;
+    width: 100%;
+}
+
+.veinte {
+    background-color: rgb(55, 119, 62);
+    border: black 1px ;
+    margin: 2px;
+    width: 18%;
+    height: 50px;
+    float: left;
+    text-align: center;
+    border: solid black 1px;
+}
+
+.coscent {
+    background-color: rgb(72, 156, 72);
+    border: black 1px;
+    margin: 10px;
+    width: 95%;
+    height: 150px;
+    text-align: center;
+}
+
+.menucent {
+    background-color: rgb(60, 122, 47);
+    border: black 1px;
+    height: 75px;
+    margin: 10px;
+    text-align: center;
+    width: 93%;
+}
+
+h1 {
+  margin: 0;
+  margin-bottom: 15px;
+}
+
+h4 {
+  margin: 0;
+}
+
+h2 {
+  margin: 0;
+}
+}
