@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="2.0" unique-identifier="BookId" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:language>ca</dc:language>
+    <dc:title>Somien els androides amb ovelles elèctriques?</dc:title>
+    <dc:creator opf:role="aut">Philip K.Dick</dc:creator>
+    <dc:subject>[Your value here]</dc:subject>
+    <meta content="0.9.9" name="Sigil version" />
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2018-03-05</dc:date>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:8b19da7b-6265-4868-bb73-b3d90e2fc185</dc:identifier>
+    <meta name="cover" content="Sin_título-3.jpg" />
+  </metadata>
+  <manifest>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="x01_sinopsis.xhtml" href="Text/01_sinopsis.xhtml" media-type="application/xhtml+xml"/>
+    <item id="estils.css" href="Styles/estils.css" media-type="text/css"/>
+    <item id="x02_titol.xhtml" href="Text/02_titol.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x03_info.xhtml" href="Text/03_info.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x04_dedicatoria.xhtml" href="Text/04_dedicatoria.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x05_cita.xhtml" href="Text/05_cita.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x06_titular.xhtml" href="Text/06_titular.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x07_cap01.xhtml" href="Text/07_cap01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x08_cap02.xhtml" href="Text/08_cap02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x09_cap03.xhtml" href="Text/09_cap03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x10_cap04.xhtml" href="Text/10_cap04.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x11_cap05.xhtml" href="Text/11_cap05.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x12_cap06.xhtml" href="Text/12_cap06.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x13_cap07.xhtml" href="Text/13_cap07.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x14_cap08.xhtml" href="Text/14_cap08.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x15_cap09.xhtml" href="Text/15_cap09.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x16_cap10.xhtml" href="Text/16_cap10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x17_cap11.xhtml" href="Text/17_cap11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x18_cap12.xhtml" href="Text/18_cap12.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x19_cap13.xhtml" href="Text/19_cap13.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x20_cap14.xhtml" href="Text/20_cap14.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x21_cap15.xhtml" href="Text/21_cap15.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x22_cap16.xhtml" href="Text/22_cap16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x23_cap17.xhtml" href="Text/23_cap17.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x24_cap18.xhtml" href="Text/24_cap18.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x25_cap19.xhtml" href="Text/25_cap19.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x26_cap20.xhtml" href="Text/26_cap20.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x27_cap21.xhtml" href="Text/27_cap21.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x28_cap22.xhtml" href="Text/28_cap22.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x29_autor.xhtml" href="Text/29_autor.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x8904_1451794_hr.jpg" href="Images/8904_1451794_hr.jpg" media-type="image/jpeg"/>
+    <item id="x56e053b8e107a__philip-k-dick.png" href="Images/56e053b8e107a__philip-k-dick.png" media-type="image/png"/>
+    <item id="BLADRMF_.TTF" href="Fonts/BLADRMF_.TTF" media-type="application/x-font-ttf"/>
+    <item id="Blade_1982_Runner_2007.mp4" href="Video/Blade%201982%20Runner%202007.mp4" media-type="video/mp4"/>
+    <item id="x00_coberta.xhtml" href="Text/00_coberta.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Sin_título-3.jpg" href="Images/Sin%20t%C3%ADtulo-3.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="x00_coberta.xhtml"/>
+    <itemref idref="x01_sinopsis.xhtml"/>
+    <itemref idref="x02_titol.xhtml"/>
+    <itemref idref="x03_info.xhtml"/>
+    <itemref idref="x04_dedicatoria.xhtml"/>
+    <itemref idref="x05_cita.xhtml"/>
+    <itemref idref="x06_titular.xhtml"/>
+    <itemref idref="x07_cap01.xhtml"/>
+    <itemref idref="x08_cap02.xhtml"/>
+    <itemref idref="x09_cap03.xhtml"/>
+    <itemref idref="x10_cap04.xhtml"/>
+    <itemref idref="x11_cap05.xhtml"/>
+    <itemref idref="x12_cap06.xhtml"/>
+    <itemref idref="x13_cap07.xhtml"/>
+    <itemref idref="x14_cap08.xhtml"/>
+    <itemref idref="x15_cap09.xhtml"/>
+    <itemref idref="x16_cap10.xhtml"/>
+    <itemref idref="x17_cap11.xhtml"/>
+    <itemref idref="x18_cap12.xhtml"/>
+    <itemref idref="x19_cap13.xhtml"/>
+    <itemref idref="x20_cap14.xhtml"/>
+    <itemref idref="x21_cap15.xhtml"/>
+    <itemref idref="x22_cap16.xhtml"/>
+    <itemref idref="x23_cap17.xhtml"/>
+    <itemref idref="x24_cap18.xhtml"/>
+    <itemref idref="x25_cap19.xhtml"/>
+    <itemref idref="x26_cap20.xhtml"/>
+    <itemref idref="x27_cap21.xhtml"/>
+    <itemref idref="x28_cap22.xhtml"/>
+    <itemref idref="x29_autor.xhtml"/>
+  </spine>
+  <guide>
+    <reference type="notes" title="Notes" href="Text/01_sinopsis.xhtml"/>
+    <reference type="title-page" title="Title Page" href="Text/02_titol.xhtml"/>
+    <reference type="acknowledgements" title="Acknowledgements" href="Text/04_dedicatoria.xhtml"/>
+    <reference type="preface" title="Preface" href="Text/06_titular.xhtml"/>
+    <reference type="cover" title="Cover" href="Text/00_coberta.xhtml"/>
+  </guide>
+</package>

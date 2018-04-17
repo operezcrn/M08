@@ -1,0 +1,260 @@
+body {
+  font-family: times, serif;
+}
+
+.adalt {
+  height: 300px;
+  margin-bottom: 0px;;
+}
+
+#capcelera {
+  width: 690px;
+  background-color: #CC9;
+  float: left;
+  border: solid black 1px;
+  font-size: 15pt;
+}
+
+#animacio {
+  width: 230px;;
+  background-color: #CC9;
+  float: left;
+  border: solid black 1px;
+  background-image:url(img/aaclase.gif);
+  background-repeat: repeat;
+}
+
+#contenidor {
+  border: solid black 1px;
+  width: 920px;
+  height: 1120px;
+  background-color: #999;
+  clear: left;
+  padding-top: 10px;
+
+  font-size: 15px;
+}
+.imatge {
+  width: 220px;
+  height: 150px;
+  background-color: #CCC;
+  border: solid black 1px;
+  float: left;
+  margin: 3px;
+  margin-top: 5px;
+}
+.clear {
+  width: 220px;
+  height: 150px;
+  background-color: #CCC;
+  border: solid black 1px;
+  clear: left;
+  float: left;
+  margin: 3px;
+  margin-top: 5px;
+
+}
+h1 {
+  font-family: times,serif;
+  font-size: 10pt;
+  text-align: center;
+}
+ h2{
+   font-size: 20pt;
+   text-align: center;
+ }
+
+ p{
+   text-align: center;
+ }
+
+ #raul {
+   background-image: url(img/baena.jpg);
+   background-repeat: no-repeat;
+   background-position: center;
+  src: url();
+ }
+
+
+ #ignacio {
+   background-image: url(img/balastegui.jpg);
+   background-repeat: no-repeat;
+   background-position: center;
+   src: url();
+ }
+
+ #antonio {
+   background-image: url(img/caballero.jpg);
+   background-repeat: no-repeat;
+   background-position: center;
+   src: url();
+ }
+
+ #jean {
+   background-image: url(img/cabrera.jpg);
+   background-repeat: no-repeat;
+   background-position: center;
+   src: url();
+ }
+
+ #laura {
+   background-image: url(img/calvo.jpg);
+   background-repeat: no-repeat;
+   background-position: center;
+   src: url();
+ }
+
+ #judith {
+   background-image: url(img/canas.jpg);
+   background-repeat: no-repeat;
+   background-position: center;
+ }
+
+ #tomas {
+   background-image: url(img/fuentes.jpg);
+   background-repeat: no-repeat;
+   background-position: center;
+   src: url();
+ }
+
+ #adrian {
+   background-image: url(img/guillen.jpg);
+   background-repeat: no-repeat;
+   background-position: center;
+   src: url();
+ }
+
+ #andres {
+   background-image: url(img/gutierrez.jpg);
+   background-repeat: no-repeat;
+   background-position: center;
+   src: url();
+ }
+
+ #faiza {
+   background-image: url(img/haddaoui.jpg);
+   background-repeat: no-repeat;
+   background-position: center;
+   src: url();
+ }
+
+ #miguel {
+   background-image: url(img/izquierdo.jpg);
+   background-repeat: no-repeat;
+   background-position: center;
+   src: url();
+ }
+
+ #brandon {
+   background-image: url(img/llorente.jpg);
+   background-repeat: no-repeat;
+   background-position: center;
+   src: url();
+ }
+
+ #alberto {
+   background-image: url(img/macanaz.jpg);
+   background-repeat: no-repeat;
+   background-position: center;
+   src: url();
+ }
+
+ #joel {
+   background-image: url(img/mansilla.jpg);
+   background-repeat: no-repeat;
+   background-position: center;
+   src: url();
+ }
+
+ #marc {
+   background-image: url(img/mendez.jpg);
+   background-repeat: no-repeat;
+   background-position: center;
+   src: url();
+ }
+
+ #pedro {
+   background-image: url(img/mendoza.jpg);
+   background-repeat: no-repeat;
+   background-position: center;
+   src: url();
+ }
+ #carol {
+   background-image: url(img/molina.jpg);
+   background-repeat: no-repeat;
+   background-position: center;
+   src: url();
+ }
+ #sergi {
+   background-image: url(img/motje.jpg);
+   background-repeat: no-repeat;
+   background-position: center;
+   src: url();
+ }
+ #diego {
+   background-image: url(img/palma.jpg);
+   background-repeat: no-repeat;
+   background-position: center;
+   src: url();
+ }
+ #paula {
+   background-image: url(img/peralta.jpg);
+   background-repeat: no-repeat;
+   background-position: center;
+   src: url();
+ }
+ #lidia {
+   background-image: url(img/pereira.jpg);
+   background-repeat: no-repeat;
+   background-position: center;
+   src: url();
+ }
+ #oriol {
+   background-image: url(img/perez.jpg);
+   background-repeat: no-repeat;
+   background-position: center;
+   src: url();
+   background-color: ;
+ }
+
+ #alex {
+   background-image: url(img/rico.jpg);
+   background-repeat: no-repeat;
+   background-position: center;
+   src: url();
+ }
+
+ #roger {
+   background-image: url(img/rodas.jpg);
+   background-repeat: no-repeat;
+   background-position: center;
+   src: url();
+ }
+
+ #noelia {
+   background-image: url(img/romero.jpg);
+   background-repeat: no-repeat;
+   background-position: center;
+   src: url();
+ }
+
+ #lydia {
+   background-image: url(img/silva.jpg);
+   background-repeat: no-repeat;
+   background-position: center;
+   src: url();
+ }
+
+ #ruben {
+   background-image: url(img/vidal.jpg);
+   background-repeat: no-repeat;
+   background-position: center;
+   src: url();
+ }
+
+ #peu {
+   height: 40px;
+   width: 920px;
+   border: solid black 1px;
+   background-color: #CC9;
+ }
